@@ -8,3 +8,4 @@ Show names of colors from the Data base.
   Data Base: MySQL on freesqldatabase.com
   
 2. The Class ProcBD have static function "proc_get_info" for call stored procedure "get_info".
+3. Used: IDE NetBeans 8.2 , Tomcat 8.5, MySQL on freesqldatabase.com
