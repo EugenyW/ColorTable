@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/ColorTablePrj">
+    <!-- Specify a JDBC datasource -->
+    <Resource auth="Container" 
+              driverClassName="com.mysql.jdbc.Driver" 
+              maxActive="10" maxIdle="4" 
+              name="jdbc/ColorBDPool" 
+              password="S6NhaTsjSc" 
+              type="javax.sql.DataSource" 
+              url="jdbc:mysql://sql7.freesqldatabase.com:3306/sql7368920?autoReconnect=true" 
+              username="sql7368920" 
+              validationQuery="select 1"/>
+</Context>
